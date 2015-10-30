@@ -1,0 +1,16 @@
+﻿<xapCache source="C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\SilverlightClient\Bin\Debug\LiveGeometry.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="10/30/2015 9:42:10 AM">
+  <file source="C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\SilverlightClient\obj\Debug\LiveGeometry.dll" archivePath="LiveGeometry.dll" lastWriteTime="10/30/2015 9:42:09 AM" />
+  <file source="C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\DynamicGeometryLibrary\Bin\Debug\DynamicGeometry.dll" archivePath="DynamicGeometry.dll" lastWriteTime="10/30/2015 9:42:08 AM" />
+  <file source="C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\Bin\Debug\GeometryTutorLib.dll" archivePath="GeometryTutorLib.dll" lastWriteTime="10/30/2015 9:42:03 AM" />
+  <file source="C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\DynamicGeometryLibrary\References\GuiLabs.Undo.Silverlight.dll" archivePath="GuiLabs.Undo.Silverlight.dll" lastWriteTime="4/26/2015 8:20:47 PM" />
+  <file source="C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\DynamicGeometryLibrary\References\ICSharpCode.SharpZipLib.Silverlight.dll" archivePath="ICSharpCode.SharpZipLib.Silverlight.dll" lastWriteTime="4/26/2015 8:20:47 PM" />
+  <file source="C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\DynamicGeometryLibrary\References\ImageTools.dll" archivePath="ImageTools.dll" lastWriteTime="4/26/2015 8:20:48 PM" />
+  <file source="C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\DynamicGeometryLibrary\References\ImageTools.IO.Bmp.dll" archivePath="ImageTools.IO.Bmp.dll" lastWriteTime="4/26/2015 8:20:47 PM" />
+  <file source="C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\DynamicGeometryLibrary\References\ImageTools.IO.Png.dll" archivePath="ImageTools.IO.Png.dll" lastWriteTime="4/26/2015 8:20:48 PM" />
+  <file source="C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\DynamicGeometryLibrary\References\ImageTools.Utils.dll" archivePath="ImageTools.Utils.dll" lastWriteTime="4/26/2015 8:20:48 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ComponentModel.Composition.dll" archivePath="System.ComponentModel.Composition.dll" lastWriteTime="3/9/2011 11:08:16 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="3/9/2011 11:08:16 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Xml.Linq.dll" archivePath="System.Xml.Linq.dll" lastWriteTime="3/9/2011 11:08:16 PM" />
+  <file source="C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\SilverlightClient\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="4/26/2015 8:20:54 PM" />
+  <file source="C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\SilverlightClient\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4/26/2015 8:22:44 PM" />
+</xapCache>

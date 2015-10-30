@@ -1,0 +1,16 @@
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\Bin\Debug\GeometryTutorLib.dll
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\Bin\Debug\GeometryTutorLib.pdb
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\obj\Debug\GeometryTutorLib.csprojResolveAssemblyReference.cache
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\obj\Debug\GeometryTutorLib.dll
+C:\Users\ctalvin\Documents\GitHub\TutorAI\Main\GeometryTutorLib\obj\Debug\GeometryTutorLib.pdb

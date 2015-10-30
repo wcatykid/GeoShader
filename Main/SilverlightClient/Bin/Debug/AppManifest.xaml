@@ -1,0 +1,26 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="LiveGeometry" EntryPointType="LiveGeometry.LiveGeometryApp" RuntimeVersion="4.0.60310.0">
+  <Deployment.OutOfBrowserSettings>
+    <OutOfBrowserSettings ShortName="Live Geometry" EnableGPUAcceleration="True" ShowInstallMenuItem="True">
+      <OutOfBrowserSettings.Blurb>A computer model of plane geometry that allows you to create interactive ruler and compass constructions and experiment with them.
+http://livegeometry.codeplex.com</OutOfBrowserSettings.Blurb>
+      <OutOfBrowserSettings.WindowSettings>
+        <WindowSettings Title="Live Geometry" />
+      </OutOfBrowserSettings.WindowSettings>
+      <OutOfBrowserSettings.Icons />
+    </OutOfBrowserSettings>
+  </Deployment.OutOfBrowserSettings>
+  <Deployment.Parts>
+    <AssemblyPart x:Name="LiveGeometry" Source="LiveGeometry.dll" />
+    <AssemblyPart x:Name="DynamicGeometry" Source="DynamicGeometry.dll" />
+    <AssemblyPart x:Name="GeometryTutorLib" Source="GeometryTutorLib.dll" />
+    <AssemblyPart x:Name="GuiLabs.Undo.Silverlight" Source="GuiLabs.Undo.Silverlight.dll" />
+    <AssemblyPart x:Name="ICSharpCode.SharpZipLib.Silverlight" Source="ICSharpCode.SharpZipLib.Silverlight.dll" />
+    <AssemblyPart x:Name="ImageTools" Source="ImageTools.dll" />
+    <AssemblyPart x:Name="ImageTools.IO.Bmp" Source="ImageTools.IO.Bmp.dll" />
+    <AssemblyPart x:Name="ImageTools.IO.Png" Source="ImageTools.IO.Png.dll" />
+    <AssemblyPart x:Name="ImageTools.Utils" Source="ImageTools.Utils.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.Composition" Source="System.ComponentModel.Composition.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls" Source="System.Windows.Controls.dll" />
+    <AssemblyPart x:Name="System.Xml.Linq" Source="System.Xml.Linq.dll" />
+  </Deployment.Parts>
+</Deployment>
